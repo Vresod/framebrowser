@@ -1,5 +1,5 @@
 
-# framebrowser
+# Frame Browser
 
 A web browser made using web technologies. Runs in your browser. Could probably run in electron if I cared enough.
 
