@@ -1,0 +1,40 @@
+#light {
+	background-color: #FFF;
+	color: #000;
+}
+
+#light #settings-content {
+	background-color: #9e9292;
+}
+
+#light button, #light select {
+	background-color: #cacaca;
+}
+
+#light .actiondoer:hover {
+	background-color: #dddddd;
+}
+
+#light input {
+	background-color: #e2e2e2;
+}
+
+#light input:focus {
+	background-color: #d4d4d4;
+}
+
+#light button:hover, #light select:hover {
+	background-color: #e0e0e0;
+}
+
+#light .actiondoer {
+	background-color: #8d8d8d;
+}
+
+#light a {
+	color: #540099;
+}
+
+#light a:hover {
+	color: #9353c7;
+}

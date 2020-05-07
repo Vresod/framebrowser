@@ -1,0 +1,36 @@
+#dark {
+	background-color: #222;
+	color: #999;
+}
+
+#dark * {
+	color: #999;
+}
+
+#dark #settings-content {
+	background-color: #1f1919;
+}
+
+#dark input, #dark button {
+	background-color: #222;
+}
+
+#dark a {
+	 color: #9c7ab8
+}
+
+#dark a:hover {
+	color: #c69aeb
+}
+
+#dark button:hover, #dark input:focus {
+	background-color: #333
+}
+
+#dark .actiondoer {
+	background-color: #333;
+}
+
+#dark .actiondoer:hover {
+	background-color: #444;
+}

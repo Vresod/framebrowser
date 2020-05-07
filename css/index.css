@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+input {
+	width: 60vw;
+}
+
+iframe {
+	width: 100%;
+	height: 90vh;
+	border: solid #000 2px;
+}
+
+#buttons {
+	display: inline;
+}
+#small {
+	font-size: 0.6em
+}
+h1, .center {
+	text-align: center;
+}
+
+button, select {
+	cursor: pointer;
+	border: solid 1px #000;
+}
+
+.actiondoer {
+	border-radius: 5px;
+}
+
+#settings {
+	display: none;
+}
+
+#inScheme {
+	background-color: #A0A0A0
+}
+
+#inScheme button {
+	background-color: #E0E0E0
+}
+
+button > a {
+	color: #000;
+	text-decoration: none;
+}
+/*
+
+*/
+#bookmarks button img {
+	width: 1em;
+}
